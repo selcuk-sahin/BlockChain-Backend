@@ -12,7 +12,7 @@ namespace BlockChainDemo
         {
             var settings = ConfigurationManager.AppSettings;
             string host = settings["host"]?.Length > 1 ? settings["host"] : "localhost";
-            string port = settings["port"]?.Length > 1 ? settings["port"] : "12345";
+            string port = settings["port"]?.Length > 1 ? settings["port"] : "5000";
 
             var server = new TinyWebServer.WebServer(request =>
                 {

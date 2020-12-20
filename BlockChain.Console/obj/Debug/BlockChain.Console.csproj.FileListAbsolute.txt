@@ -11,3 +11,16 @@ C:\Users\sella\Source\Repos\blockchain\csharp\BlockChain.Console\obj\Debug\Block
 C:\Users\sella\Source\Repos\blockchain\csharp\BlockChain.Console\obj\Debug\BlockChain.Console.csproj.CopyComplete
 C:\Users\sella\Source\Repos\blockchain\csharp\BlockChain.Console\obj\Debug\BlockChainDemo.Console.exe
 C:\Users\sella\Source\Repos\blockchain\csharp\BlockChain.Console\obj\Debug\BlockChainDemo.Console.pdb
+C:\Users\sella\Desktop\BlockChain- Backend\BlockChain.Console\bin\Debug\BlockChainDemo.Console.exe.config
+C:\Users\sella\Desktop\BlockChain- Backend\BlockChain.Console\bin\Debug\BlockChainDemo.Console.exe
+C:\Users\sella\Desktop\BlockChain- Backend\BlockChain.Console\bin\Debug\BlockChainDemo.Console.pdb
+C:\Users\sella\Desktop\BlockChain- Backend\BlockChain.Console\bin\Debug\BlockChainDemo.dll
+C:\Users\sella\Desktop\BlockChain- Backend\BlockChain.Console\bin\Debug\TinyWebServer.dll
+C:\Users\sella\Desktop\BlockChain- Backend\BlockChain.Console\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sella\Desktop\BlockChain- Backend\BlockChain.Console\bin\Debug\BlockChainDemo.pdb
+C:\Users\sella\Desktop\BlockChain- Backend\BlockChain.Console\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sella\Desktop\BlockChain- Backend\BlockChain.Console\obj\Debug\BlockChain.Console.csprojAssemblyReference.cache
+C:\Users\sella\Desktop\BlockChain- Backend\BlockChain.Console\obj\Debug\BlockChain.Console.csproj.CoreCompileInputs.cache
+C:\Users\sella\Desktop\BlockChain- Backend\BlockChain.Console\obj\Debug\BlockChain.Console.csproj.CopyComplete
+C:\Users\sella\Desktop\BlockChain- Backend\BlockChain.Console\obj\Debug\BlockChainDemo.Console.exe
+C:\Users\sella\Desktop\BlockChain- Backend\BlockChain.Console\obj\Debug\BlockChainDemo.Console.pdb

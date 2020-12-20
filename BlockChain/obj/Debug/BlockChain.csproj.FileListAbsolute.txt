@@ -8,3 +8,13 @@ C:\Users\sella\Source\Repos\blockchain\csharp\BlockChain\obj\Debug\BlockChain.cs
 C:\Users\sella\Source\Repos\blockchain\csharp\BlockChain\obj\Debug\BlockChain.csproj.CopyComplete
 C:\Users\sella\Source\Repos\blockchain\csharp\BlockChain\obj\Debug\BlockChainDemo.dll
 C:\Users\sella\Source\Repos\blockchain\csharp\BlockChain\obj\Debug\BlockChainDemo.pdb
+C:\Users\sella\Desktop\BlockChain- Backend\BlockChain\bin\Debug\BlockChainDemo.dll
+C:\Users\sella\Desktop\BlockChain- Backend\BlockChain\bin\Debug\BlockChainDemo.pdb
+C:\Users\sella\Desktop\BlockChain- Backend\BlockChain\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sella\Desktop\BlockChain- Backend\BlockChain\bin\Debug\TinyWebServer.dll
+C:\Users\sella\Desktop\BlockChain- Backend\BlockChain\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sella\Desktop\BlockChain- Backend\BlockChain\obj\Debug\BlockChain.csprojAssemblyReference.cache
+C:\Users\sella\Desktop\BlockChain- Backend\BlockChain\obj\Debug\BlockChain.csproj.CoreCompileInputs.cache
+C:\Users\sella\Desktop\BlockChain- Backend\BlockChain\obj\Debug\BlockChain.csproj.CopyComplete
+C:\Users\sella\Desktop\BlockChain- Backend\BlockChain\obj\Debug\BlockChainDemo.dll
+C:\Users\sella\Desktop\BlockChain- Backend\BlockChain\obj\Debug\BlockChainDemo.pdb
